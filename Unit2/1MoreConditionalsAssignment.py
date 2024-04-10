@@ -1,5 +1,6 @@
-# print("########## 2.1.1 ##########")
+# print("########## 2.2.1 ##########")
 
+<<<<<<< HEAD
 # word = input("Please type in a word: ")
 # if len(word) >= 2:
 #     print(len(word))
@@ -55,3 +56,14 @@ elif str(word1) < str(word2):
     print(word2, "comes alphabetically last.")
 else:
     print("You gave the same word twice.")
+=======
+# print("########## 2.2.2 ##########")
+
+# print("########## 2.2.3 ##########")
+
+# print("########## 2.2.4 ##########")
+
+# print("########## 2.2.5 ##########")
+
+# print("########## 2.2.6 ##########")
+>>>>>>> ed69335c68271aedf58261acbb53bcb1bf86fca6
